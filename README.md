@@ -9,6 +9,7 @@
 > Simple journal with goals and input date functionality.
 
 ##Objectives
+
 - [ ] Add auto journal entry functionality
 - [ ] Track progress on goals
 
@@ -19,6 +20,7 @@ Clone repository and open index.html
 
 
 ##Current Screenshot of index.html for reference
+
 (\n)
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
@@ -28,6 +30,7 @@ Clone repository and open index.html
 Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comments about this page.
 
 ## Known Bugs
+
 _* x *_
 
 
@@ -42,6 +45,7 @@ _* x *_
 ```html
 <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 ```
+
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
