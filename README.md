@@ -1,6 +1,5 @@
 # Journal
-#### Simple Journal of Programming Goals and Progress  
-###### _**by Suzi Rubino, January, 18 2019**_  
+#### Simple Journal of Programming Goals and Progress ###### _**by Suzi Rubino, January, 18 2019**_  
 
 ## Description
 Simple journal with goals and input date functionality.
