@@ -1,50 +1,37 @@
 # Journal
-#### Simple Journal of Programming Goals and Progress
+#### Simple Journal of Programming Goals and Progress  
 ###### _**by Suzi Rubino, January, 18 2019**_
 
-\n
-\n
 
 ## Description
-
 Simple journal with goals and input date functionality.
 
-\n
-\n
+<br>
 
 ## Objectives
-
 - [ ] Add auto journal entry functionality
 - [ ] Track progress on goals
 
-\n
-\n
+<br>
 
 ## Set-up Instructions
-
 Clone repository and open index.html
 
-\n
-\n
+<br>
 
 ## Current Screenshot of index.html for reference
-
-\n
-
+<br>
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 
 ## Support and contact details
-
 Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comments about this page.
 
 ## Known Bugs
-
 _* x *_
 
 
 ## Technologies Used
-
 1. html
 2. github
 3. CSS
@@ -57,6 +44,8 @@ _* x *_
 ```html
 <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 ```
+
+> To single line space add two spaces before hitting return (enter)
 
 | Option | Description |
 | ------ | ----------- |
