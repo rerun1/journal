@@ -28,8 +28,7 @@ Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comment
 - css
 - Javascript
 
-![Picture](../img/journalScreenShot1-18-19.png)
-
+![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 # CSS Week Three Independent Project
 _*Epicodus CSS Responsive Design Week Three Project, 12-9-16*_
