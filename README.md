@@ -1,12 +1,14 @@
 # Journal
 #### Simple Journal of Programming Goals and Progress
-###### _**by Suzi Rubino, January, 18 2019**_
+#### _**by Suzi Rubino, January, 18 2019**_
 
 
 
 ## Description
 
 > Simple journal with goals and input date functionality.
+\n
+\n
 
 ## Objectives
 
@@ -41,6 +43,9 @@ _* x *_
 3. CSS
 4. SASS
 
+
+> Block quote
+>> Block quote, etc.
 
 ```html
 <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
