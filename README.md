@@ -1,12 +1,14 @@
 # Journal
 #### Simple Journal of Programming Goals and Progress
-#### _**by Suzi Rubino, January, 18 2019**_
+###### _**by Suzi Rubino, January, 18 2019**_
 
-
+\n
+\n
 
 ## Description
 
-> Simple journal with goals and input date functionality.
+Simple journal with goals and input date functionality.
+
 \n
 \n
 
@@ -15,15 +17,20 @@
 - [ ] Add auto journal entry functionality
 - [ ] Track progress on goals
 
+\n
+\n
 
 ## Set-up Instructions
 
 Clone repository and open index.html
 
+\n
+\n
 
 ## Current Screenshot of index.html for reference
 
 \n
+
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 
@@ -57,11 +64,6 @@ _* x *_
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-| Option | Description |
-| -:- | -:- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
 
 | Option | Description |
 | ------:| -----------:|
