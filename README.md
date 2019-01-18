@@ -28,7 +28,7 @@ Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comment
 - css
 - Javascript
 
-![Picture](https://rawgit.com/rerun1/journal/img/Screen Shot 2019-01-18 at 1.54.44 PM.png)
+![Picture](https://suzirubi.com/public_html/rerun1images/journalScreenshot1-18-19.png)
 
 
 # CSS Week Three Independent Project
