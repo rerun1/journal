@@ -8,58 +8,23 @@
 
 Simple journal with goals and input date functionality.
 
+##Objectives
+- [  ] Add auto journal entry functionality
+- [  ] Track progress on goals
+
 
 ## Set-up Instructions
 
 Clone repository and open index.html
 
 
-## Known bugs
+##Current Screenshot of index.html for reference
 
-None know at this time
+![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 ## Support and contact details
 
 Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comments about this page.
-
-## Technologies Used
-
-- html
-- css
-- Javascript
-
-![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
-
-# CSS Week Three Independent Project
-_*Epicodus CSS Responsive Design Week Three Project, 12-9-16*_
-
-by Suzi Rubino
-
-##Description
-Create a responsive layout of cards with varying colors and transparent background images. It should be responsive at at least one breakpoint.
-
-Use Sass to make code as DRY, organized, and reusable as possible.
-
-###Objectives
-- [  ] Stylesheets are organized using partials and easy to understand
-- [  ] Nesting is no more than four levels deep
-- [  ] Variables are used effectively
-- [  ] At least one use of a Sass color function
-- [  ] At least one use of @extend
-- [ x] At least one Bourbon @mixin, function, or add-on
-- [  ] At least one @mixin of your own
-- [  ] Page is responsive (at least one breakpoint) using Sass-style media queries and/or the Neat grid
-- [  ] Project demonstrates an understanding of this week's concepts; If prompted, you can discuss your project with an instructor using the correct terminology
-
-
-##Setup/Installation requirements
-* [visit my gh-page for CSS Independent Project #3](https://rawgit.com/suzirubi/tarot/master/index.html)
-* [visit my gh-page for CSS Independent Project #2](https://rawgit.com/suzirubi/thinkGoogle/master/index.html)
-* [visit my gh-page for CSS Independent Project #1](https://rawgit.com/suzirubi/climbing/master/index.html)
-* [visit my gh-page for Independent Project #4](https://rawgit.com/suzirubi/pizza/master/index.html)
-* [visit my gh-page for Independent Project #3](https://rawgit.com/suzirubi/ping-pong/master/index.html)
-* [Visit my gh page for Indpendent Project #2](https://rawgit.com/suzirubi/Independent-Project-Week-2/master/index.html)
-* [Visit my gh page for Independent Project #1](https://rawgit.com/suzirubi/portfolioFix/master/index.html)
 
 ## Known Bugs
 _* x *_
