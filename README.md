@@ -1,7 +1,6 @@
 # Journal  
 #### Simple Journal of Programming Goals and Progress  
-######  
-_**by Suzi Rubino, January, 18 2019**_  
+###### _**by Suzi Rubino, January, 18 2019**_  
 
 <br>
 
