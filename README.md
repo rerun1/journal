@@ -31,15 +31,21 @@ Clone repository and open index.html
 ## Support and contact details
 Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comments about this page.
 
+<br>
+
 ## Known Bugs
 _* x *_
 
+<br>
 
 ## Technologies Used
 1. html
 2. github
 3. CSS
-4. SASS
+
+<br>
+
+<br>
 
 
 > Block quote
