@@ -1,6 +1,10 @@
 # Journal  
 #### Simple Journal of Programming Goals and Progress  
-###### _**by Suzi Rubino, January, 18 2019**_  
+######  
+_**by Suzi Rubino, January, 18 2019**_  
+
+<br>
+
 
 ## Description
 Simple journal with goals and input date functionality.
@@ -46,7 +50,7 @@ _* x *_
 <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 ```
 
-> To single line space add two spaces before hitting return (enter)
+> To single line space add two spaces before hitting return (enter) doesn't seem to work for heads?
 
 | Option | Description |
 | ------ | ----------- |
