@@ -8,7 +8,7 @@
 
 > Simple journal with goals and input date functionality.
 
-##Objectives
+## Objectives
 
 - [ ] Add auto journal entry functionality
 - [ ] Track progress on goals
@@ -19,9 +19,9 @@
 Clone repository and open index.html
 
 
-##Current Screenshot of index.html for reference
+## Current Screenshot of index.html for reference
 
-(\n)
+\n
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 
