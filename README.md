@@ -27,6 +27,7 @@ Clone repository and open index.html
 
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
+<br>
 
 ## Support and contact details
 Please contact Suzi Rubino at suzi@suzirubi.com if you have questions or comments about this page.
