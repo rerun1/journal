@@ -1,7 +1,6 @@
 # Journal
 #### Simple Journal of Programming Goals and Progress  
-###### _**by Suzi Rubino, January, 18 2019**_
-
+###### _**by Suzi Rubino, January, 18 2019**_  
 
 ## Description
 Simple journal with goals and input date functionality.
@@ -20,7 +19,9 @@ Clone repository and open index.html
 <br>
 
 ## Current Screenshot of index.html for reference
+
 <br>
+
 ![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
 
 
