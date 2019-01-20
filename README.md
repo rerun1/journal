@@ -49,7 +49,7 @@ _* x *_
 <br>
 
 
-> Block quote
+<!-- > Block quote
 >> Block quote, etc.
 
 ```html
@@ -69,4 +69,4 @@ _* x *_
 | ------:| -----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| ext    | extension to be used for dest files. | -->
