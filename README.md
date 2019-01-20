@@ -25,7 +25,7 @@ Clone repository and open index.html
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/journalScreenShot1-18-19.png)
+![alt text](https://raw.githubusercontent.com/rerun1/journal/master/img/screenShot1-19-19.png)
 
 <br>
 

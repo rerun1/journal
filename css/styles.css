@@ -212,6 +212,7 @@ li:before {
   padding: 0 .25em 0 .5em;
   color: #660000;
 }
+
 a {
   display: inline-block;
   text-decoration: none;
@@ -255,8 +256,16 @@ p {
   padding: 0;
   text-align: left;
 }
+
 hr {
   margin: -.125em 0 .75em  0;
+}
+.minusTop {
+  padding: -1em 0em 0em 0em;
+  margin: -1em 0em 2em 0em;
+}
+.minusBottom {
+  padding: 0em .25em -3.5em .5em;
 }
 .mainHead {
   font-size: 2em;
@@ -272,11 +281,11 @@ hr {
   padding: 0 0 0 0;
 }
 .journalText {
-  font-size: .85em;
+  font-size: .75em;
   color: rgba(190,190,190,1.0);
 }
 .goals {
-  font-size: .7em;
+  font-size: .75em;
 }
 .minusVerticalSpace {
   margin: -.5em 0 0 0; /* adjust for input area of date */

@@ -2,10 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0">
     <title>Journal</title>
-
+    <!-- Bodoni used is typekit font -->
     <link rel="stylesheet" href="https://use.typekit.net/rvi3agd.css">
-
     <!--The more you preload, the more you can block initial render-->
     <link rel="preload" href="fonts/carolynaProBlack/CarolynaProBlack.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEMdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -13,7 +13,6 @@
     <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCn.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" href="fonts/akzidenzBertCn/AkzidGroBEXBdCnIt.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <!-- end preload -->
-
     <link  href="css/normalize.css" rel="stylesheet" charset="utf-8">
     <link  href="css/styles.css" rel="stylesheet" charset="utf-8">
   </head>
@@ -23,6 +22,20 @@
     <div class="journalEntry">
       <div class="carolynaBlack">
         <input type="date" min="2017-01-17" max="2019-12-30">
+      </div>
+      <div class="journalText minusVerticalSpace">
+        <p class="bodoni bodoniLight">Third day's goals.</p>
+        <ul class="akzidenz akzidenzCon goals">
+          <li>Get through intro to programing. Still working on this goal from yesterday, not following next goal!</li>
+          <li>Don't get mired in details. Listen to that little voice in my little head!</li>
+          <li class="minusBottom">Stay positive about work</li>
+        </ul>
+        <p class="bodoni bodoniLight minusTop"><em>P.S. I am going faster and remembering more with attention to detail.</em></p>
+      </div>
+    </div>
+    <div class="journalEntry">
+      <div class="carolynaBlack">
+        January 18, 2019
       </div>
       <div class="journalText minusVerticalSpace">
         <p class="bodoni bodoniLight">Second entry here. Today's goals.</p>
@@ -35,8 +48,7 @@
     </div>
     <div class="journalEntry">
       <div class="carolynaBlack">
-        January 17, 2019 TEST 2
-        <!-- <input id="today" type="date"> -->
+        January 17, 2019
       </div>
       <div class="journalText minusVerticalSpace">
         <p class="bodoni bodoniLight">First Entry here. Talking about goals for programming.</p>
